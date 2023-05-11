@@ -1,1 +1,8 @@
-# AtliQ-Hardwares-Problem
+# AtliQ-Hardwares-Problem Statment
+AtliQ is a company that sells hardware like PC, Mouse, Printer and so on to different companies so this model is similar to HP or Dell.They make hardwares and they sell it to stores such as Croma, Best Buy, Staples and even online stores like Amazon and Flipkart and from there are these stores will sell the hardwares to the end consumer person like us.
+So for AtliQ the customers is the stores like Croma, Best Buy etc and the consumer is the perosn who is consuming the product.
+They have the manufacturing facility where they build all these hardwares and then they send it to warehouse distribution centres and so on.They have business in different countries, so they ship it to different location and from there the material or the hardware itemswill go to the individual stores.
+Now here,we have 2 types of customers Chroma and Best Buy is the actual physical stores where person can go adn buy stuffs.We can also buy these things from online websites such as Amazon and Flipkart.So, Chroma and Best Buy is called Brick and Mortar type of customer and Amazon and Flipkart is called an e-commerce type of customers.
+When we sell the hardwares to Brick and Mortar stores and it goes to the consumers those Brick and Mortar stores or online stores are called Retailor.
+AtliQ has there own stores as well.AtliQ has opened there own stores where they can sell to direct consumers and they have AtliQ estore and AtliQ exclusive this are Direct channels.
+Suppose we sell it to Big Distributors and we send big shipments and this distributor will send the hardware items to different stores which are present locally.
