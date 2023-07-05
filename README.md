@@ -1,4 +1,4 @@
-# AtliQ-Hardwares-Problem Statment
+# AtliQ Hardwares Problem Statment
 AtliQ is a company that sells hardware like PC, Mouse, Printer and so on to different companies so this model is similar to HP or Dell.They make hardwares and they sell it to stores such as Croma, Best Buy, Staples and even online stores like Amazon and Flipkart and from there are these stores will sell the hardwares to the end consumer person like us.
 So for AtliQ the customers is the stores like Croma, Best Buy etc and the consumer is the perosn who is consuming the product.
 They have the manufacturing facility where they build all these hardwares and then they send it to warehouse distribution centres and so on.They have business in different countries, so they ship it to different location and from there the material or the hardware itemswill go to the individual stores.
